@@ -1,0 +1,23 @@
+{
+  "name": "taller2",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Estebanmr30/Taller2IngSoft.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Estebanmr30/Taller2IngSoft/issues"
+  },
+  "homepage": "https://github.com/Estebanmr30/Taller2IngSoft#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
