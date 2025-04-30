@@ -4,7 +4,7 @@ export const pokeneas = [
     name: 'Bulbasaur',
     height: '2.04',
     ability: 'Overgrow',
-    image: '',
+    image: 'https://pokeneas.s3.us-east-1.amazonaws.com/001.png',
     phrase: 'Get ready to be inspired…',
   },
   {
@@ -12,7 +12,7 @@ export const pokeneas = [
     name: 'Ivysaur',
     height: '3.03',
     ability: 'Overgrow',
-    image: '',
+    image: 'https://pokeneas.s3.us-east-1.amazonaws.com/002.png',
     phrase: 'See rejection as redirection.',
   },
   {
@@ -20,7 +20,7 @@ export const pokeneas = [
     name: 'Venusaur',
     height: '6.07',
     ability: 'Overgrow',
-    image: '',
+    image: 'https://pokeneas.s3.us-east-1.amazonaws.com/003.png',
     phrase: 'There is beauty in simplicity.',
   },
   {
@@ -28,7 +28,7 @@ export const pokeneas = [
     name: 'Charmander',
     height: '2.00',
     ability: 'Blaze',
-    image: '',
+    image: 'https://pokeneas.s3.us-east-1.amazonaws.com/004.png',
     phrase: 'You can’t be late until you show up.',
   },
   {
@@ -36,7 +36,7 @@ export const pokeneas = [
     name: 'Charmeleon',
     height: '3.00',
     ability: 'Blaze',
-    image: '',
+    image: 'https://pokeneas.s3.us-east-1.amazonaws.com/005.png',
     phrase: 'Maybe life is testing you. Don’t give up.',
   },
   {
@@ -44,7 +44,7 @@ export const pokeneas = [
     name: 'Charizard',
     height: '6.00',
     ability: 'Blaze',
-    image: '',
+    image: 'https://pokeneas.s3.us-east-1.amazonaws.com/006.png',
     phrase: 'Impossible is just an opinion.',
   },
   {
@@ -52,7 +52,7 @@ export const pokeneas = [
     name: 'Squirtle',
     height: '1.00',
     ability: 'Torrent',
-    image: '',
+    image: 'https://pokeneas.s3.us-east-1.amazonaws.com/007.png',
     phrase: 'Alone or not you gonna walk forward.',
   },
   {
@@ -60,7 +60,7 @@ export const pokeneas = [
     name: 'Wartortle',
     height: '3.00',
     ability: 'Torrent',
-    image: '',
+    image: 'https://pokeneas.s3.us-east-1.amazonaws.com/008.png',
     phrase: "In a rich man's house there is no place to spit but his face.",
   },
   {
@@ -68,7 +68,7 @@ export const pokeneas = [
     name: 'Blastoise',
     height: '6.00',
     ability: 'Torrent',
-    image: '',
+    image: 'https://pokeneas.s3.us-east-1.amazonaws.com/009.png',
     phrase: 'In the kingdom of the blind, the one-eyed man is king.',
   },
 ];

@@ -10,5 +10,5 @@ export const info = (request, response) => {
 export const extraInfo = (request, response) => {
   const pokenea = getRandomPokenea();
   const data = { image: pokenea.image, phrase: pokenea.phrase, container: os.hostname() };
-  response.send(data);
+  response.render('extraData', { data });
 };
