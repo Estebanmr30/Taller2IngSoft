@@ -3,7 +3,13 @@ import os from 'os';
 
 export const info = (request, response) => {
   const pokenea = getRandomPokenea();
-  const data = { id: pokenea.id, name: pokenea.name, height: pokenea.height, ability: pokenea.ability };
+  const data = {
+    id: pokenea.id,
+    name: pokenea.name,
+    height: pokenea.height,
+    ability: pokenea.ability,
+    container: os.hostname(),
+  };
   response.send(data);
 };
 
